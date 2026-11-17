@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** and **Co-founder of Plestu**. I love building software solutions that make people's lives easier and sharing my journey through content creation.
 
-- 🔭 I’m currently working on **Plestu**
+- 🔭 I’m currently **freelancing**
 - 🌱 I’m currently learning **Generative AI (GEN AI)**
 - 💬 Ask me about **Software Engineering, Building Startups, and Content Creation**
 - 📫 How to reach me: [sundayochuko101@gmail.com](mailto:sundayochuko101@gmail.com)
